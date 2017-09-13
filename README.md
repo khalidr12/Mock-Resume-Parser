@@ -1,5 +1,5 @@
 # Mock-Resume-Parser
-Please understand that this is a MOCK parser, simply demostrarting the concept behind it
+Please understand that this is a MOCK parser, simply demostrarting the concept behind it                                                    
 list1 = input("You are applying for the position of Android Developer, please type in your resume") 
 list1.split()
 list2 = ["consultant", "android", "java", "skillsets", "experienced", "dedicated" , "motivated", "hardworking"] #example word bank
